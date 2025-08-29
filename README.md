@@ -14,6 +14,7 @@
 
 ```javascript
 const moamen = {
+  pronouns: "He" | "Him",
   code: ["JavaScript", "ReactJS", "HTML", "CSS", "TailwindCSS"],
   askMeAbout: ["frontend dev", "UI/UX", "dashboards", "e-learning apps", "e-commerce"],
   technologies: {
@@ -25,6 +26,20 @@ const moamen = {
     tools: ["Git", "GitHub", "Postman", "Swagger", "VS Code"],
     misc: ["REST APIs", "JWT Auth"]
   },
-  currentFocus: "Building user-friendly and responsive web apps",
-  funFact: "I debug faster with lo-fi beats playing 🎶"
+  currentFocus: "Building user-friendly and responsive web apps"
 };
+
+### ⚡ Featured Projects  
+
+- **EduMate (Graduation Project)** – Frontend lead for a role-based education system with authentication and API integration  
+  🔗 [Live Demo](https://graduation-project-5fbp.vercel.app/)  
+
+- **Elmohadra.com** – Contributed admin pages & quiz logic for an online education system  
+  🔗 [Live Application](https://elmohdra.com/)  
+
+- **Dashboard Project** – Interactive charts and theme management with React + Syncfusion  
+  🔗 [Live Demo](https://dashboard-project-zeta-rosy.vercel.app/)  
+
+- **E-commerce Website** – Product browsing, cart, and checkout flows  
+
+- **UI/Design Challenges** – Various creative HTML & CSS mini projects  
