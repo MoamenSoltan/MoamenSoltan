@@ -28,6 +28,7 @@ const moamen = {
   },
   currentFocus: "Building user-friendly and responsive web apps"
 };
+```
 
 ### ⚡ Featured Projects  
 
