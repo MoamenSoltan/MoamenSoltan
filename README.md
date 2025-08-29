@@ -6,7 +6,7 @@
 
 [![Linkedin: Moamen](https://img.shields.io/badge/-Moamen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moamen-soltan-2b41422a5/)](https://www.linkedin.com/in/moamen-soltan-2b41422a5/)
 [![GitHub Moamen](https://img.shields.io/github/followers/MoamenSoltan?label=follow&style=social)](https://github.com/MoamenSoltan)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MoamenSoltan.MoamenSoltan)
+
 
 ---
 
@@ -14,7 +14,6 @@
 
 ```javascript
 const moamen = {
-  pronouns: "He" | "Him",
   code: ["JavaScript", "ReactJS", "HTML", "CSS", "TailwindCSS"],
   askMeAbout: ["frontend dev", "UI/UX", "dashboards", "e-learning apps", "e-commerce"],
   technologies: {
